@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test/pci_1/static/css/main.f8610f8c.chunk.css",
+    "main.js": "/test/pci_1/static/js/main.9f2376e2.chunk.js",
+    "runtime-main.js": "/test/pci_1/static/js/runtime-main.e8303eae.js",
+    "static/js/2.b64f6ace.chunk.js": "/test/pci_1/static/js/2.b64f6ace.chunk.js",
+    "index.html": "/test/pci_1/index.html",
+    "static/js/2.b64f6ace.chunk.js.LICENSE.txt": "/test/pci_1/static/js/2.b64f6ace.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8303eae.js",
+    "static/js/2.b64f6ace.chunk.js",
+    "static/css/main.f8610f8c.chunk.css",
+    "static/js/main.9f2376e2.chunk.js"
+  ]
+}
